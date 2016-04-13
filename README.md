@@ -1,0 +1,1 @@
+this readme is for working with git and git hub.
